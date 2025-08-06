@@ -21,6 +21,10 @@ echo 'currently i am'.$status. '<br>';
 echo "My name is $name <br>";
 echo "currently i am $status <br>";
 
+#difference between single and doublw qoutes for string and variable
+echo "My name is $name <br>";
+echo 'My name is $name <br>';
+
 #variable golbal and local scope
 $a=5;
 $b=4;
