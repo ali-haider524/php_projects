@@ -12,4 +12,6 @@ function item (...$x){
 }
 echo 'list of item is:'.item(2,3,4,5,6).'<br>';
 
+
+
 ?>
